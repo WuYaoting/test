@@ -14,7 +14,8 @@ public class Test {
 			public void say2() {
 				System.out.println("yyyyy");
 			}
-		}.say2();;
+		}.say2();
+		System.out.println("11111111");
 		
 	}
 	
